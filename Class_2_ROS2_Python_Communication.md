@@ -2,8 +2,6 @@
 
 This guide walks you through building a modular **ROS 2 Humble** package using **Python (`rclpy`)**. Following the course curriculum, you will learn how to create a workspace, build a custom package, and develop two interconnected nodes communicating via topics: an odometry subscriber that computes cumulative path length (`odom_listener.py`) and a geometric trajectory controller (`triangle_stepper.py`) that navigates an **equilateral triangle** pattern using real-time pose feedback.
 
-## [For more details, see the presentation slides](https://docs.google.com/presentation/d/1Yl-QCOvlGdIBSREwMPxfj50a_lk7E9fm8FWiSNKZ6dg/edit)
-
 ---
 
 ## 📋 Prerequisites
