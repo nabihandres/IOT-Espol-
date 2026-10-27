@@ -436,8 +436,8 @@ Your final submission must consist exclusively of a single **.pdf** or **.docx**
 Contributions and suggestions are always welcome! If you have recommendations to improve this guide, please feel free to fork the repository and submit a pull request.
 
 ✉️ **Teaching Team & Developers:**
-1. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
-2. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
-3. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
+1. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
+2. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
+3. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
 
 **AIROS - ESPOL** 🇪🇨
