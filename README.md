@@ -37,8 +37,3 @@ IOT-Espol-/
 
 ## 🤝 Contributing and Contact
 Feel free to open an issue or pull request if you find any typo or would like to propose improvements.
-
-✉️ **Teaching Team & Authors:**
-1. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
-2. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
-3. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
