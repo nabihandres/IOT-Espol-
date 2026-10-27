@@ -1,6 +1,6 @@
 # IoT & Robotics Workshop - ROS 2 Humble & Linux Fundamentals 🤖🚀
 
-Welcome to the **IoT & Robotics Workshop** repository at **ESPOL**, developed by **AIROS**. This repository contains complete, step-by-step educational materials designed to introduce students to Linux operating system essentials, ROS 2 middleware architecture, and practical robot control using the Turtlesim simulator.
+This repository contains complete, step-by-step educational materials designed to introduce students to Linux operating system essentials, ROS 2 middleware architecture, and practical robot control using the Turtlesim simulator.
 
 ## 📅 Workshop Syllabus & Modules
 
@@ -36,8 +36,6 @@ IOT-Espol-/
 Feel free to open an issue or pull request if you find any typo or would like to propose improvements.
 
 ✉️ **Teaching Team & Authors:**
-1. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
-2. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
-3. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
-
-**AIROS - ESPOL** 🇪🇨
+1. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
+2. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
+3. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
