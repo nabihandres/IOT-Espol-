@@ -2,8 +2,6 @@
 
 This guide provides a detailed, step-by-step walkthrough to set up your environment in **Ubuntu 22.04 LTS**, master essential Linux terminal commands (Bash), and take your first steps in the **ROS 2 Humble** ecosystem using the **Turtlesim** simulator. You will learn how to inspect node architectures, publish and monitor topics in real time, and control the motion of a virtual robot.
 
-## [For more details, see the presentation slides](https://docs.google.com/presentation/d/1Yl-QCOvlGdIBSREwMPxfj50a_lk7E9fm8FWiSNKZ6dg/edit)
-
 ---
 
 ## 📋 Prerequisites
