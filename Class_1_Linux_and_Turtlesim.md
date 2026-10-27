@@ -148,7 +148,7 @@ Before installing, you must free up unallocated hard drive space from Windows:
 > [!NOTE]
 > 📷 **Required Screenshot 1 (5 Points):** After logging into Ubuntu, open a terminal (`Ctrl + Alt + T`) and run `lsb_release -a`. Take a full desktop screenshot showing the command output.
 
-![Screenshot: Ubuntu 22.04 Installed](assets/class1_ubuntu_installed.png)
+<img width="448" height="114" alt="Verificacion de ubuntu " src="https://github.com/user-attachments/assets/9ca06a7a-1ae0-4cad-ad11-ee8dc02b8250" />
 
 ---
 
@@ -263,7 +263,7 @@ ls -R ~/workshop_test
 > [!NOTE]
 > 📷 **Required Screenshot 2 (5 Points):** Take a screenshot showing that you have successfully executed the listed terminal commands in your terminal.
 
-![Screenshot: Terminal Commands Execution](assets/class1_terminal_commands.png)
+<img width="676" height="1015" alt="Comandos Ubuntu" src="https://github.com/user-attachments/assets/800c351e-c5fd-4c10-b1c3-a2bea76627a3" />
 
 ---
 
@@ -304,7 +304,7 @@ Use the **arrow keys** to drive the turtle.
 > [!IMPORTANT]
 > Keep **Terminal 2** selected and focused to capture arrow key strokes.
 
-![Screenshot: Teleoperation Motion](assets/class1_teleop_motion.png)
+<img width="752" height="1051" alt="Turtlesim Teleop" src="https://github.com/user-attachments/assets/f81fd28c-29b3-49c5-a1ce-0a7b9c1d29eb" />
 
 ---
 
@@ -327,7 +327,7 @@ Expected output:
 > [!NOTE]
 > 📷 **Required Screenshot 3 (1 Point):** Screenshot displaying the output of `ros2 node list` showing both active nodes.
 
-![Screenshot: Node List](assets/class1_node_list.png)
+<img width="1259" height="637" alt="Turtlesim Nodes" src="https://github.com/user-attachments/assets/9aa7b003-d4a4-49ff-93b7-4baf72c26b9e" />
 
 ---
 
@@ -346,7 +346,7 @@ ros2 node info /teleop_turtle
 > [!NOTE]
 > 📷 **Required Screenshot 4 (2 Points):** Screenshot showing the complete output of `ros2 node info /turtlesim` and `ros2 node info /teleop_turtle`.
 
-![Screenshot: Node Info Output](assets/class1_node_info.png)
+<img width="1310" height="1410" alt="Turtlesim Nodes Inspection" src="https://github.com/user-attachments/assets/6476ed62-26a3-4626-b23d-eb88a9de5e48" />
 
 ---
 
@@ -365,7 +365,7 @@ The turtle will immediately begin drawing continuous circular strokes.
 > [!NOTE]
 > 📷 **Required Screenshot 5 (2 Points):** Screenshot showing the `ros2 topic pub` command executing alongside the Turtlesim window with the turtle moving in a circle.
 
-![Screenshot: Circular Motion](assets/class1_topic_pub_circle.png)
+<img width="1310" height="1410" alt="Turtlesim Circle Move" src="https://github.com/user-attachments/assets/1b6d7c02-7f47-4688-9528-00dca0deeb5c" />
 
 ---
 
@@ -381,7 +381,7 @@ ros2 topic echo /turtle1/cmd_vel
 > [!NOTE]
 > 📷 **Required Screenshot 6 (1.5 Points):** Screenshot showing streaming `Twist` messages printed by `ros2 topic echo`.
 
-![Screenshot: Topic Echo](assets/class1_topic_echo.png)
+<img width="1310" height="1410" alt="Turtlesim Topic Echo" src="https://github.com/user-attachments/assets/4020fbad-106b-4776-ae34-d210eb2ec6fc" />
 
 ---
 
@@ -404,7 +404,7 @@ average rate: 10.001
 > [!NOTE]
 > 📷 **Required Screenshot 7 (1.5 Points):** Screenshot showing the measured rate in Hz using `ros2 topic hz`.
 
-![Screenshot: Topic Frequency](assets/class1_topic_hz.png)
+<img width="1310" height="1410" alt="Turtlesim Topic Hz" src="https://github.com/user-attachments/assets/e0fc4380-2154-4aa1-9e32-5860617c81f6" />
 
 ---
 
@@ -416,11 +416,11 @@ Submit your work as a single **.pdf** or **.docx** document containing all 7 req
 | :---: | :--- | :---: |
 | 1 | **Ubuntu Installation:** `lsb_release -a` desktop screenshot | **5.0 pts** |
 | 2 | **Linux Terminal Commands:** Successful command execution screenshot | **5.0 pts** |
-| 3 | **Node List:** Output of `ros2 node list` | **1.0 pt** |
+| 3 | **Node List:** Output of `ros2 node list` | **2.0 pt** |
 | 4 | **Node Info:** Complete output of `ros2 node info` for both nodes | **2.0 pts** |
 | 5 | **Circular Movement:** `ros2 topic pub` with circular motion | **2.0 pts** |
-| 6 | **Topic Echo:** Output of `ros2 topic echo /turtle1/cmd_vel` | **1.5 pts** |
-| 7 | **Topic Hz:** Measured publishing frequency in Hz | **1.5 pts** |
+| 6 | **Topic Echo:** Output of `ros2 topic echo /turtle1/cmd_vel` | **2.0 pts** |
+| 7 | **Topic Hz:** Measured publishing frequency in Hz | **2.0 pts** |
 
 ---
 
@@ -437,7 +437,3 @@ Feel free to open an issue or pull request if you find any typo or would like to
 
 ✉️ **Teaching Team & Authors:**
 1. Maykoll Vanegas - [LinkedIn](https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/)
-2. Hector La Mota - [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-la-mota-5a9b7a2a8/)
-3. Carolina Sánchez - [LinkedIn](https://www.linkedin.com/in/carolinas%C3%A1nchezcevallos/)
-
-**AIROS - ESPOL** 🇪🇨
